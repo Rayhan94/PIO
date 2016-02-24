@@ -1,7 +1,5 @@
 package com.example.nominater;
 
-public class Login {
-	
-	
+public class Register {
 
 }

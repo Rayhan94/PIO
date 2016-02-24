@@ -30,12 +30,12 @@
         android:text="TextView" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/AddFriend"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/Password"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="41dp"
+        android:layout_marginTop="25dp"
         android:background="@drawable/loginButton"
         android:text="@string/Empt" />
 
